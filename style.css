@@ -11,8 +11,10 @@ input {
     color: #F1FFF6;
     border: 1.5px solid #5EF4D6;
     border-radius: 10px;
+    font-family: 'Viga', sans-serif;
 }
 .info {
+    font-family: 'Rubik', sans-serif;
     text-align: center;
 }
 
