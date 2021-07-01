@@ -10,7 +10,7 @@ body {
     flex-wrap: wrap; */
 }
 
-.info {
+.info-container {
     text-align: center;
     display: inline-block;
     max-width: 320px;
@@ -28,6 +28,7 @@ body {
     max-width: 330px;
     margin: 5px 15px;
     min-height: 210px;
+    /* display: inline-block; */
 }
 
 input {
@@ -43,7 +44,7 @@ input {
     width: 95%;
     margin: 5px;
     max-width: 330px;
-    display: inline-block;
+    /* display: inline-block; */
     margin: 5px 15px;
     font-size: 18px;
 }
@@ -69,6 +70,7 @@ h1{
 }
 img {
     margin-bottom: 20px;
+  
 }
 .icons {
     /* margin-top: 30px; */
@@ -79,4 +81,8 @@ img {
     color: white;
     border-radius: 50%;
     border: 1px solid #5EF4D6;
+}
+.form-container{
+    border: 2px solid red;
+    display: inline-block;
 }
