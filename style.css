@@ -10,6 +10,7 @@ body {
 }
 
 h1{
+    width: 100%;
     color:#5EF4D6;
     text-align: center;
     margin: 15px auto;
