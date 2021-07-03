@@ -1,6 +1,12 @@
-# challenge4-mintbean
+# Challenge4-mintbean
 
-<img src='./images/ch4MintBean.png' alt='Mobile View'>
+## Desktop View
+
+<img src='./images/ch4-desktop.png' alt='Desktop View'>
+
+## Mobile View
+
+<img src='./images/ch4-mobile.png' alt='Mobile View'>
 
 ## About
 The purpose of Learn-a-bit is about learning one bit of code at a time .
