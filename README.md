@@ -2,11 +2,11 @@
 
 ## Desktop View
 
-<img src='./images/ch4-desktop.png' alt='Desktop View'>
+<img src="./images/ch4-desktop.png" alt="Desktop View">
 
 ## Mobile View
 
-<img src='./images/ch4-mobile.png' alt='Mobile View'>
+<img src="./images/ch4-mobile.png" alt="Mobile View">
 
 ## About
 
