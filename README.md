@@ -1,4 +1,4 @@
-# challenge4-mintbean
+# Challenge4-mintbean
 
 ## Desktop View
 
